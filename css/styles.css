@@ -1,0 +1,15 @@
+body {
+  position: relative;
+}
+
+.header {
+  background-image: url(../image/space.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 50vh;
+  position: relative;
+}
+
+.center {
+  margin: auto;
+}
